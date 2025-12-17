@@ -1,0 +1,10 @@
+/.venv
+.venv
+
+/other
+
+**/training
+
+data/*
+
+**/__pycache__
